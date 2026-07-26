@@ -1,1 +1,35 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/D94-Q8ry)
+### **Problem Statement**
+
+Develop an AI-powered sentiment analysis system that analyzes stock market news, classifies sentiment (positive, neutral, negative), and generates weekly news summaries to support better stock price prediction and investment decisions.
+
+### **Business Context**
+
+Investment firms receive thousands of financial news articles daily, making it difficult to understand market sentiment manually. This project automates sentiment analysis and news summarization to provide actionable insights for financial analysts.
+
+### **Packages Used**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Gensim (Word2Vec)
+* PyTorch
+* Sentence-Transformers
+* Hugging Face Transformers
+* TensorFlow
+* Keras
+* Warnings
+* Garbage Collector (gc)
+
+
+### **Models Used**
+
+* **Word2Vec** 
+* **Sentence Transformer** 
+* **Random Forest** 
+* **Neural Network**
+
+### **Best Model**
+
+**Sentence Transformer (all-MiniLM-L6-v2) + `Neural Network`**  
